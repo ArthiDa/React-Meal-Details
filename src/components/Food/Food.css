@@ -1,0 +1,30 @@
+.img {
+  width: 100%;
+  border-radius: 10px 0px 0px 0px;
+}
+.single-food {
+  width: 90%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.food-title {
+  text-align: center;
+}
+
+.btn {
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+  background-color: blueviolet;
+  padding: 10px;
+}
+.btn-text {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+.btn:hover {
+  background-color: aqua;
+  cursor: pointer;
+}

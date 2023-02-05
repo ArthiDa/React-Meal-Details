@@ -1,0 +1,21 @@
+.header {
+  background-color: coral;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav a {
+  margin: 10px;
+  padding: 10px;
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+nav a:hover {
+  color: blue;
+  background-color: yellow;
+  border-radius: 10px;
+}

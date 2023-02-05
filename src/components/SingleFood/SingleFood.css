@@ -1,0 +1,16 @@
+.title {
+  text-align: center;
+}
+
+.details {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  gap: 15px;
+  margin: 30px;
+}
+
+.image {
+  border-radius: 10px;
+  width: 80%;
+  margin: auto;
+}
